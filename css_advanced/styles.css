@@ -21,6 +21,12 @@ nav a {
     text-align: center;
 }
 
+.learn {
+    color: rgb(197, 116, 226);
+    font-weight: bold;
+    font-size: large;
+}
+
 .Leading span {
     text-align: center;
     padding: 20px;
@@ -78,10 +84,47 @@ nav a {
     margin-top: 5%;
 }
 
+.popular {
+    color: rgb(197, 116, 226);
+}
+
 .smile {
     display: flex;
     margin-top: 5%;
     padding: 20px;
+    position: relative;
+}
+
+.play {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: 120px;
+    top: 80px;
+}
+
+.playy {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: 520px;
+    top: 80px;
+}
+
+.playyy {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: 850px;
+    top: 80px;
+}
+
+.playyyy {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: 1250px;
+    top: 80px;
 }
 
 .membership {
@@ -95,6 +138,11 @@ nav a {
     margin-top: 5%;
     color: white;
     background-color: black;
+}
+
+.free {
+    color: rgb(197, 116, 226);
+    font-size: 100px;
 }
 
 .smiley {
